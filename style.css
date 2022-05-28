@@ -48,3 +48,24 @@ h1{
     width: 400px;
     border-radius: 10px;
 }
+.box-shadow-2{
+
+  
+  border-radius: 10px;
+
+  box-shadow: 10px 10px 5px rgb(102, 99, 99);
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 300px;
+}
+footer  h1{
+    color: white;
+}
+footer h3{
+    color: white;
+}
+.middle{
+    text-align: center;
+}
